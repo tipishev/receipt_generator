@@ -1,0 +1,8 @@
+row_number,name,date,amount,good_or_service,tax_rate,phone
+1,Alice,2024-02-18,200,"Konstundervisning, barn och ungdomar",6,+46123456789
+2,Bob,2024-02-18,456,"Konstundervisning, barn och ungdomar",6,+46123456790
+3,Charlie,2024-02-18,789,"Konstundervisning, barn och ungdomar",6,+46123456791
+42,Dylan,2024-02-18,101112,"Konstundervisning, barn och ungdomar",6,+46123456792
+43,Eve,2024-02-18,131415,"Konstundervisning, barn och ungdomar",6,+46123456793
+100,Frank,2024-02-18,161718,"Konstundervisning, barn och ungdomar",6,+46123456794
+500,Gerarald,2024-02-18,192021,"Konstundervisning, barn och ungdomar",6,+46123456795
